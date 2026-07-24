@@ -13,22 +13,21 @@ This tutorial outlines the process of managing the Windows print queue by identi
 - Windows 11
 
 
-<h2>Users Created</h2>
+<h2>Print Queue Management</h2>
 
 <p>
-<img width="1724" height="862" alt="image" src="https://github.com/user-attachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
-
-</p>
-<p>
-Created a new user named Chris Walker.
-</p>
-<br />
-
-<p>
-<img width="1718" height="847" alt="image" src="https://github.com/user-attachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
+<img width="1345" height="370" alt="image" src="https://github.com/user-attachments/assets/d57ca952-e555-4ba6-9f79-1f20ba428004" />
 
 </p>
 <p>
-Created a new user named Jordan Lee.
+Add my own home printer to bluetooth and devices.
 </p>
 <br />
+
+<p>
+<img width="703" height="603" alt="image" src="https://github.com/user-attachments/assets/cb831428-c95b-41cc-9354-a990e5e4c4e1" />
+
+</p>
+<p>
+Did mock scenario of "stuck print jobs" and clear the queue.
+</p>
